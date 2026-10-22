@@ -1,0 +1,66 @@
+*{
+
+background-color:whitesmoke;
+} 
+table {
+    margin: 20px auto;
+    border: 2px solid rgb(252, 5, 5);
+    border-collapse: collapse;
+   
+   
+}   
+
+th, td {
+    border: 1px solid rgb(5, 5, 5);
+    padding: 5px;
+}
+#my {
+    text-align: center;
+    font-weight: 900;
+    font-family: cursive;
+    background-color: rgb(233, 149, 149);
+    
+}
+
+#n{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-variant: initial;
+    font-size:larger;
+}
+
+.td2{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+    color: blue;
+    text-align: center;
+    
+
+}
+
+.d1{
+ background-color:aquamarine;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
